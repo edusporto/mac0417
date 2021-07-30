@@ -24,7 +24,7 @@ Os Notebooks desta parte se encontram em `EP2_1_Data_Augmentation.ipynb` e `EP2_
 
 ## EP3.
 
-Foram criados os datasets 'segmentacaoManual' e '' a partir da segmentação das imagens, disponíveis na pasta do Google Drive. E foi treinado um classificador para identificar os objetos nas imagens segmentadas.
+Foram criados os datasets 'segmentacaoManual' e 'segmentacaoAutomatico' a partir da segmentação das imagens, disponíveis na pasta do Google Drive. E foi treinado um classificador para identificar os objetos nas imagens segmentadas.
 
 Os Notebooks desta parte se encontram em 'EP3.1_Segmentacao_do_objeto_de_interesse.ipynb' e 'EP3.2_Classificação_dos_Objetos_de_Interesse.ipynb'.
 
